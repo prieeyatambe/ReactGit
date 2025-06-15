@@ -1,0 +1,10 @@
+.head-style{
+    color: #0066ff;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;
+    padding: auto;
+}
+.fr{
+    float: right;
+    padding-left: 5px;
+}
